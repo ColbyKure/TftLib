@@ -5,7 +5,6 @@ This project is a **TFT 4-Cost 3-Star Probability Calculator**, built using **Py
 ## Features
 
 - **Calculate 3-Star Probability**: Input your player level, available gold, and the drop rate of 4-cost champions to calculate the probability of hitting a 3-star 4-cost champion.
-- **Dark Theme**: Modern and clean dark-themed GUI with easy-to-read input fields and tooltips.
 - **User-Friendly**: Explanations for each input field to guide users.
 
 ## Table of Contents
